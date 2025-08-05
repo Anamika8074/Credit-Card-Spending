@@ -20,6 +20,7 @@ Here are some visuals from the dashboard:
 
 
 📂 Visual Insights
+
 📌 Donut Chart - Amount Spend by gender
 
 ![Donut Chart](Screenshots/DonutChart.png)
@@ -53,7 +54,7 @@ Helps analyze spending concentration across categories .
 📌 Stacked Column Chart -amount spend in cities by card type
 Displays spending by cities over card type, useful for pattern analysis.
 
-![Stacked Column Chart](Stackedcolumnchart.png)
+![Stacked Column Chart](Stacked_Column_chart.png)
 
 
 📌 KPI Card View - Key Metrics
