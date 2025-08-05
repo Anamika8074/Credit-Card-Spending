@@ -15,10 +15,12 @@ This project presents an interactive **Power BI dashboard** that visualizes and 
 Here are some visuals from the dashboard:
 
 ### Dashboard Overview
+
 ![Dashboard Overview](Screenshots/CreditCardSpending.png)
 
 
 ###Total Amount
+
 ![Total Amount](Screenshots/Card.png)
 
 
