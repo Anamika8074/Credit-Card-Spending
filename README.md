@@ -21,7 +21,7 @@ Here are some visuals from the dashboard:
 
 📂 Visual Insights
 
-📌 Donut Chart - Amount Spend by gender
+📌 Donut Chart - Amount Spend by gender(It contains only female data)
 
 ![Donut Chart](Screenshots/DonutChart.png)
 
