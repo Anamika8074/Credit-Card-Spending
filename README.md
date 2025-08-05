@@ -15,7 +15,7 @@ This project presents an interactive **Power BI dashboard** that visualizes and 
 Here are some visuals from the dashboard:
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/Credit_Card_Spending.png)
+![Dashboard Overview]([Screenshots/Credit_Card_Spending.png](https://github.com/Anamika8074/Credit-Card-Spending/blob/main/Screenshots/Credit%20Card%20Spending.png))
 
 
 ###Total Amount
