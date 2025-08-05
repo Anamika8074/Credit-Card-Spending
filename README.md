@@ -51,24 +51,10 @@ Helps analyze spending concentration across categories .
 ![scatterplot](Screenshots/Scatterplot.png)
 
 
-📌 Stacked Column Chart -amount spend in cities by card type
-Displays spending by cities over card type, useful for pattern analysis.
-
-![Stacked Column Chart](sackedcolumnchart.png)
-
-
 📌 KPI Card View - Key Metrics
 Shows important figures like total spending, max category, average spend, etc.
 
 ![card](Screenshots/Card.png)
-
-
-📌 Stacked Bar Chart -amount spend in cities 
-Displays spending by cities , useful for pattern analysis.
-
-![Stacked Bar Chart](Stackedbarchart.png)
-
-
 
 
 
