@@ -29,7 +29,7 @@ Here are some visuals from the dashboard:
 📌 Line and Clustered Column Chart - Comparison View
 Visualizes spending of amount by card type and city.
 
-![Comparision view](Screenshots/Lineclusteredcolumnchart.png)
+![Comparision view](Screenshots/Lineandclusteredcolumnchart.png)
 
 
 📌 Line Chart - Monthly Spending Trend
