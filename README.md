@@ -47,7 +47,7 @@ A clean visual for distribution of spending .
 📌 Scatter Plot - Amount vs Card type
 Helps analyze spending concentration across categories .
 
-![Donut Chart](Screenshots/Stacked_Column_chart.png)
+![scatterplot](Screenshots/Scatterplot.png)
 
 
 📌 Stacked Column Chart -amount spend in cities by card type
